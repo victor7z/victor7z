@@ -29,6 +29,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no Centro Universitário
 ## 📫 Vamos conversar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/victor-eduardo-533954347)
-- 🌐 Portfólio: [COLE AQUI O LINK DO SEU PORTFÓLIO]
+- 🌐 Portfólio: [Acesse Meu Portifolio](https://victor7z.github.io/meu-portifolio1/)]
 
 Se você tem uma vaga de estágio em Java ou quer trocar uma ideia sobre programação, é só chamar! 🚀
